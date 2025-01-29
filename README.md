@@ -23,7 +23,7 @@ This script performs a comprehensive health check on a Linux server by monitorin
 ## Installation & Usage
 ### 1. **Download the Script**
 ```bash
-wget https://github.com/yourusername/server-health-check.sh
+wget https://github.com/iammaksudul/server-health-check.sh
 ```
 ### 2. **Give Execution Permission**
 ```bash
